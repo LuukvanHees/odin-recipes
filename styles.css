@@ -1,0 +1,37 @@
+/* styles.css */
+body {
+    margin: 0 auto;
+    padding: 50px;
+    max-width: 600px;
+}
+
+.title {
+    font-size: large;
+    background-color: burlywood;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    border: 2px solid black;
+}
+
+.recipes{
+    font-family: Verdana, sans-serif;
+    border: 4px dotted red;
+    padding: 8px;
+    margin: 16px;
+}
+
+#link-one {
+    font-size: medium;
+    font-weight: 800;
+}
+
+#link-two {
+    font-size: smaller;
+    font-weight: 600;
+}
+
+#link-three {
+    font-size: small;
+    font-weight: 400;
+}
